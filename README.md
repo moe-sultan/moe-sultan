@@ -8,8 +8,10 @@ Hey there! I'm Mohamed Sultan, a passionate gradute software engineer with a kna
 - 💡 I love tackling complex problems and turning ideas into reality through elegant and efficient code.
 - 🚀 I'm enthusiastic about contributing to open-source projects and collaborating with like-minded individuals to make a positive impact on the tech community.
 
+{::comment}
 ### Projects 🛠️
 - **Plato Personal Assistant**: Check out my Python-based personal assistant project named Plato! It's designed to assist users with various tasks using voice commands, including fetching information, performing computations, and more.
+{:/comment}
 
 ### Connect with Me 🌐
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/mohamedasultan/)! I'm always open to networking and discussing exciting opportunities.
